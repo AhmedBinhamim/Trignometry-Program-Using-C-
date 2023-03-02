@@ -1,5 +1,5 @@
 # Trignometry-Program-Using-C-
-in this program I have  developed sine, cosine and tangent functions by implementing the Taylor series and  have shown how the Taylor series compute the values until the accurate result
+In this program I have  developed sine, cosine and tangent functions by implementing the Taylor series and  have shown how the Taylor series compute the values until the accurate result
 
 Trigonometry, a term that most people who studied basic mathematics are familiar 
 with it. It is basically all about triangles and finding the missing angle and sides of a 
