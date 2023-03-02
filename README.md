@@ -18,7 +18,7 @@ The program compute the most accurate result depending on the precision (which i
 by default 10, but the user can adjust it). Each term is calculated by using the 
 formula: power(x,c) / factorial(c), where x is the angle in radians and c is the 
 counter. The new term then is added to the previous term by using the formula 
-termOld+ (termNew*sign) and the sum of this is stored in a variable called “result”,
+termOld+ (termNew x sign) and the sum of this is stored in a variable called “result”,
 then termOld is set to be the termNew , after that the counter is incremented by 2 
 and the termNew is calculated, the process repeats until the difference between the 
 termOld and termNew is less than the precision (for example 0.000001), then the 
@@ -28,6 +28,6 @@ to the students how the Taylor series is actually implemented in a practical way
 Therefore, the program helps the students to understand the Taylor series 
 practically rather than looking at the formula and imagining how it is implemented
 Adding to that, the program provides the option for the user to calculate the area of 
-triangle using the formula, (1/2)*hypotenuse*adjacent*sin(opposite) which helps the 
+triangle using the formula, (1/2) x hypotenuse x adjacent x sin(opposite) which helps the 
 students in their assignments to calculate the accurate areas of triangle.
 
